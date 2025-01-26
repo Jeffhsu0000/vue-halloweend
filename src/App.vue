@@ -1,12 +1,11 @@
-<script setup></script>
+<script setup>
+</script>
 
 <template>
   <nav class="flex items-center justify-between">
     <div class="flex gap-2">
-      <h1 class="text-white font-bold text-2xl bg-blue-500">
-        Hallow
-        <span class="text-[#FF693A]">ee</span>
-        nd
+      <h1 class="text-white font-bold text-2xl">
+        Hallow<span class="text-secondary">ee</span>nd
       </h1>
       <svg
         class="w-7 lg:w-9"
